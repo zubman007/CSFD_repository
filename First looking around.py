@@ -1,0 +1,1 @@
+print("Začínáme programovat Luky ! ! ")
