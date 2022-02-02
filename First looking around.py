@@ -1,11 +1,13 @@
 import sql_com
-#movies_of_user(user_ID)
-#users_of_movie
-#rating_user_movie
-#ratings_of_user
+#movs_of_user
+#users_of_mov
+#rat_user_mov
+#rats_of_user
+#avg_rat_of_user
+#dist_of_rats_of_user
 
 
 
-rating = sql_com.ratings_of_user(1)
-print(len(rating))
-print(rating[100])
+test = sql_com.dist_of_rats_of_user(1)
+print(len(test))
+print(test)
