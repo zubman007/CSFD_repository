@@ -1,11 +1,17 @@
 náměty k udělání/pokoumání
-    normalizace hodnocení
+    normalizace hodnocení - 
+            optimalizace výkonu a pravidelného běhu v praxi
+            rozvrstvení defaultní transformace hodnocení u unnormilizable userů
     změřit rychlost komunikace s SQL a optimalizace
     aplikace paraler computingu
     optimalizace počtu clusterů
-    načtení zdrojů
+    optimalizace Marsellusova parametru
+    Nepruměrovat filmy, které se v clusterech vyskytují pouze n-krát
+    POkud nějaký cluster má pouze 1 až n uživatelů, tak ho zrušit a náhodně ho znova vygenerovat
+    zamyšlení a optimalizace na nultou iterací (které body dát jako počáteční středy)
+    Pro tvorbu clusterů využít pouze některé uživatele (typicky normiliable uživatele)    načtení zdrojů
+        unnormilizable uživatele úplně vyhodit
     zpracování teoretické části
-    zz
     
 
 
